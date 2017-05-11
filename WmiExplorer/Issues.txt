@@ -1,0 +1,11 @@
+﻿Issues to address:
+- Query fails to populate data grid sometimes due to Enumerate Deep, causing list view not to resize.
+  - Fixed this by setting DirectRead to true.
+
+Known Issues:
+- Query tab layout is messed up when .NET 4.5 is installed due to a bug with .NET 4.5 (this is fixed in .NET 4.5.1)
+  https://connect.microsoft.com/VisualStudio/feedback/details/767282/system-windows-forms-tablelayoutpanel-behavior-change-net-4-5-framework
+- 
+
+
+
