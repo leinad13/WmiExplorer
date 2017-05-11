@@ -1,0 +1,7 @@
+﻿- Create a new hidden release on Codeplex
+- Update ChangeLog.txt
+- Update Releases.xml (Codeplex and Azure) with new version, date and release URL.
+- Update assembly version.
+- Check in project on codeplex (including changelog.txt and releases.xml)
+- Upload releases.xml on Azure
+- Modify release on Codeplex and make it public.

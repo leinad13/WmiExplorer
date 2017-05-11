@@ -1,0 +1,17 @@
+C:\Dan\GIT\WmiExplorer\WmiExplorer\bin\Debug\ChangeLog.txt
+C:\Dan\GIT\WmiExplorer\WmiExplorer\bin\Debug\WMIExplorer.exe.config
+C:\Dan\GIT\WmiExplorer\WmiExplorer\bin\Debug\WMIExplorer.exe
+C:\Dan\GIT\WmiExplorer\WmiExplorer\bin\Debug\WMIExplorer.pdb
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.csprojResolveAssemblyReference.cache
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.Forms.Form_About.resources
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.Forms.Form_ConnectAs.resources
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.Forms.Form_DisplayText.resources
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.Forms.Form_ExecMethod.resources
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.Forms.Form_Settings.resources
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.Form_ShowMof.resources
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.Forms.Form_Update.resources
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.Properties.Resources.resources
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.WmiExplorer.resources
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WmiExplorer.csproj.GenerateResource.Cache
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WMIExplorer.exe
+C:\Dan\GIT\WmiExplorer\WmiExplorer\obj\Debug\WMIExplorer.pdb
