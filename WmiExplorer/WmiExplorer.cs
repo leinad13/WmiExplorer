@@ -1365,7 +1365,7 @@ namespace WmiExplorer
             }
 
             // Don't do anything if filter Text is not atleast 3 characters
-            if (filterText.Length > 0 && filterText.Length < 3) return;
+            if (filterText.Length > 0 && filterText.Length < 5) return;
 
             // Clear UI Elements
             ResetListInstances();
